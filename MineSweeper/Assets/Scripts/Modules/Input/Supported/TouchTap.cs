@@ -1,0 +1,1 @@
+abstract class TouchTap : IInput {}

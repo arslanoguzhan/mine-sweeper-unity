@@ -1,0 +1,1 @@
+abstract class TouchSwipeUp : IInput {}
